@@ -15,9 +15,9 @@
 //
 /////////////////////////////////////////////////////
 
-define("API_URL",	"https://api-dev.vcloudx.com/v1");
-define("APP_ID",	"5b289848b0445b59155bf432");
-define("APP_KEY",	"2e9etaYamyPaXaXyJyHaeyLe4yeyLeHaeena");
+define("API_URL",	"https://api.enablex.io/v1");
+define("APP_ID",	"YOUR APP_ID");
+define("APP_KEY",	"YOUR APP_KEY");
 
 // NOTE! Your Application Server must be hosted on HTTPS. 
 

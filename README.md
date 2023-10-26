@@ -1,10 +1,12 @@
-# 1-to-1 RTC: A Sample Web Chat App using PHP & EnableX Web Toolkit
+# 1-to-1 RTC Chat Application: PHP & EnableX Web Toolkit Example
 
-The Sample PHP Chat App demonstrates the use of APIs for EnableX platform to carry out 1-to-1 RTC (Real Time Communication) Application. The main motivation behind this application is to demonstrate usage of APIs and allow developers to ramp up on app by hosting on their own devices instead of directly using servers.
+1-to-1 RTC Web Chat App: PHP & EnableX Web Toolkit 
 
-RTC Applications hosted on EnableX platform run natively on supported set of web browsers without any additional plugin downloads. 
+Explore a Sample PHP Chat App showcasing the usage of EnableX platform APIs for seamless 1-to-1 RTC (Real-Time Communication) Applications. Develop your skills by hosting this app on your own devices, reducing the need for external servers. 
 
-This basic 1-to-1 Chat Application is developed using HTML, CSS, Bootstrap, JavaScript, jQuery, PHP and EnxRtc (The EnableX Web Toolkit). 
+RTC Applications on the EnableX platform operate seamlessly on supported web browsers, eliminating the need for additional plugin downloads. 
+
+This basic 1-to-1 Chat Application is crafted using HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, and EnxRtc (EnableX Web Toolkit) 
 
 >The details of the supported set of web browsers can be found here:
 https://developer.enablex.io/video/browser-compatibility-of-enablex-video/
